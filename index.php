@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="style.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+    <title>Földrajz</title>
+</head>
+<body>
+    <h1>Földrajz gyakorló feladat</h1>
+    <h2>1.Feladat</h2>
+    <div class="d-flex" id="cimsor" class="container-fluid">
+        <img src="Európa vak.jpg" alt="">
+        <div>
+            <label>1.</label>
+            <input type="text" id="elso">
+            <br>
+        
+            <label>2.</label>
+            <input type="text" id="masodik"><br>
+        
+            <label>3.</label>
+            <input type="text" id="harmadik"><br>
+        
+            <label>4.</label>
+            <input type="text" id="negyedik"><br>
+        
+            <label>5.</label>
+            <input type="text" id="otodik"><br>
+        </div>
+        
+        
+    </div>
+    <div class="container w-25 mx-auto">
+        
+        <button class="rounded-5"id="vizsgal" name="vizsgal">Ellenőrzés</button>
+    </div>
+    <script src="index.js"></script>
+    
+    
+    <h2 id="proba">2.Feladat</h2>
+    
+
+</body>
+</html>
