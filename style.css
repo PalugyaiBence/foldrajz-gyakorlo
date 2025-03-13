@@ -1,5 +1,6 @@
 body{
     background: rgb(109, 0, 136);
+    background: linear-gradient(131deg, rgba(65,0,81,1) 0%, rgba(35,102,160,1) 50%, rgba(205,249,255,1) 100%);
     
     
     justify-content: center;
